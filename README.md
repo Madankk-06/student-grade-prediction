@@ -192,8 +192,7 @@ student-grade-prediction/
 
 ## 👨‍💻 Author
 
-**Madan**
-MCA Student
+**Madan KK**
 
 ---
 
