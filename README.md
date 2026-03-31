@@ -193,13 +193,10 @@ student-grade-prediction/
 ## 📸 Application Screenshots
 
 ### 🖥️ Main Interface
-![Main UI](assets/app.png)
-
-### 📝 Input Form
-![Input Form](assets/form.png)
+![Main UI](assets/app.jpeg)
 
 ### 📊 Prediction Result
-![Prediction Result](assets/result.png)
+![Prediction Result](assets/result.jpeg)
 
 ---
 
