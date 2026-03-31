@@ -190,6 +190,19 @@ student-grade-prediction/
 
 ---
 
+## 📸 Application Screenshots
+
+### 🖥️ Main Interface
+![Main UI](assets/app.png)
+
+### 📝 Input Form
+![Input Form](assets/form.png)
+
+### 📊 Prediction Result
+![Prediction Result](assets/result.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Madan KK**
